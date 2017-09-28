@@ -5,10 +5,10 @@
 	and other elements used for layout. */
 
 /*
-div, main, article, section, aside, 
+div, main, article, section, aside,
 hgroup, header, footer, address, nav {
 	border: 1px solid rgba(255,0,0,0.15) !important;
-	background: rgba(255,0,0,0.05) !important;		
+	background: rgba(255,0,0,0.05) !important;
 }
 */
 
@@ -21,9 +21,11 @@ hgroup, header, footer, address, nav {
 	margin-right: auto;
 	margin-bottom: 1em;
 	margin-left: auto;
-	width: 90%;
-	max-width: 1200px;
+	width: 100%;
+	max-width: 1500px;
 	padding: 2em;
 	border: 1px solid #eee;
 }
-
+.header_picture{
+	padding-bottom: 2em;
+}

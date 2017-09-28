@@ -5,3 +5,8 @@ body {
 	line-height: 1.5em;
 	color: #222;
 }
+.main_header {
+	font-family: "American Typewriter", Times, serif;
+	font-size: 50px;
+	letter-spacing: 0.8em;
+}
